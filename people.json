@@ -5,21 +5,24 @@
        "lastName": "Jackson",
        "gender": "male",
        "age": 28,
-       "number": "7349282382"
+       "number": "7349282382",
+      "city": "Hyderabad"
     },
     {
        "firstName": "James",
        "lastName": "Smith",
        "gender": "male",
        "age": 32,
-       "number": "5678568567"
+       "number": "5678568567",
+       "city": "Banglore"
     },
     {
        "firstName": "Emily",
        "lastName": "Jones",
        "gender": "female",
        "age": 24,
-       "number": "456754675"
+       "number": "456754675",
+       "city": "Chennai"
     }
   ]
 }
